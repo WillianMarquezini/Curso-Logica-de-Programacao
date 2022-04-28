@@ -30,11 +30,11 @@
 
 ## Aula 3 -- O problema que todo iniciante enfrenta
 		  |
-		  Erro #1 - ir direto ao código.
-		  Normal #1 - vai escrever código lentamente.
-		  Normal #2 - Vai resolver os mesmos problemas em situações.
-		  Normal #3 - Vai se achar incapaz/insuficiente. 
-		  Normal #4 - Vai gradualmente conseguir solucionar problemas mais facilmente.
+		  * Erro #1 - ir direto ao código.
+		  * Normal #1 - vai escrever código lentamente.
+		  * Normal #2 - Vai resolver os mesmos problemas em situações.
+		  * Normal #3 - Vai se achar incapaz/insuficiente. 
+		  * Normal #4 - Vai gradualmente conseguir solucionar problemas mais facilmente.
 
 ## Aula 4 -- Aprenda resolver problemas através da análise crítica
 		|
@@ -53,17 +53,17 @@
 
 ## Aula 5 -- O que são algoritmos e como montar algoritimos do zero
 		| 
-		.1 O que são algoritimos?
+		1. O que são algoritimos?
 		"Um algoritmo é simplesmente uma série de instruções a serem seguidas, para resolver um problema."
 		|
-		.2 Quando algoritimos devem ser criados?
+		2. Quando algoritimos devem ser criados?
 		Sempre que queremos montar uma sequência de passos necessários para solucionar um problema.
 		|
-		.3 Qual é a estratégia para montar um algoritimo?
+		3. Qual é a estratégia para montar um algoritimo?
 				Independente se:
-			3.1. Quando alguém te apresenta um problema a ser resolvido.
+			3.1 Quando alguém te apresenta um problema a ser resolvido.
 			|
-			3.2. Quando você encontra um problema a ser resolvido.
+			3.2 Quando você encontra um problema a ser resolvido.
 				
 				Método 5Q's para montar um algoritimo:
 				Analise criticamente o problema e descubra:
@@ -75,7 +75,7 @@
 				4. Qual é o resultado esperado?
 				5. Qual a é a sequencia de passos a ser feitas para chegar ao resultado esperado?
 
-		Problema 1 - Ligar para alguém
+		    Problema 1 - Ligar para alguém
 			1. Quais são os dados de entrada necessários
 				Um telefone
 				Um numero de telefone
@@ -84,15 +84,15 @@
 				Usar o celular para discar o número do meu amigo
 
             3. Monte um algoritimo necessário para ligar para um amigo
-                .1 Pegar o telefone
-                .2 Se estiver travado por senha, destrave o celular
-                .3 verifique se há sinal da operadora 
-                .4 navegue até o discador do celular
-                .5 digite o número do seu amigo 
-                .6 aperte no motão de "Ligar"
-                .7 aguardo a ligação completar
-                .8 se a ligação completar, conversar com ele 
-                .9 se a ligação não completar, deixar uma mensagem dizendo "me ligue de volta"
+                1. Pegar o telefone
+                2. Se estiver travado por senha, destrave o celular
+                3. verifique se há sinal da operadora 
+                4. navegue até o discador do celular
+                5. digite o número do seu amigo 
+                6. aperte no motão de "Ligar"
+                7. aguardo a ligação completar
+                8. se a ligação completar, conversar com ele 
+                9. se a ligação não completar, deixar uma mensagem dizendo "me ligue de volta"
 
 
 
