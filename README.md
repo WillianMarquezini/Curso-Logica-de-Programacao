@@ -8,7 +8,7 @@
 			    
 * Automatizar tarefas na web(interagir, preencher ou buscar informações em sites).
 			    
-* Automatizar criação, preenchimento, duplicação, e envio de arquivos(planilhas, docs, textos, pdf, imagens, etc...).
+* Automatizar criação, preenchimento, duplicação, e envio de arquivos (planilhas, docs, textos, pdf, imagens, etc...).
 
 * Criação leitura e envio de e-mails.
 			    
