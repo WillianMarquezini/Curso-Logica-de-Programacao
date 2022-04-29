@@ -31,10 +31,15 @@ Estágio 5 - Implantação e Entrega.
 ## Aula 3 -- O problema que todo iniciante enfrenta
 		  
 Erro #1 - ir direto ao código.
-		  Normal #1 - vai escrever código lentamente.
-		  Normal #2 - Vai resolver os mesmos problemas em situações.
-		  Normal #3 - Vai se achar incapaz/insuficiente. 
-		  Normal #4 - Vai gradualmente conseguir solucionar problemas mais facilmente.
+
+Normal #1 - vai escrever código lentamente.
+		  
+Normal #2 - Vai resolver os mesmos problemas em situações.
+		  
+Normal #3 - Vai se achar incapaz/insuficiente. 
+		  
+Normal #4 - Vai gradualmente conseguir solucionar problemas mais facilmente.
+		  
 
 ## Aula 4 -- Aprenda resolver problemas através da análise crítica
 		
